@@ -1,0 +1,22 @@
+body{
+    background: rgb(24,255,0);
+background: linear-gradient(90deg, rgba(24,255,0,1) 0%, rgba(29,253,239,1) 50%, rgba(72,210,255,1) 100%);
+}
+#hd{
+    width: 100%;
+    font-size: x-large !important;
+    height: 80px;
+    top: -20;
+    padding: 10px;
+    margin-top: 0;
+}
+h2{
+    font-size: small !important;
+}
+input{
+    width: 400px !important;
+}
+canvas{
+    border: 5px solid black ;
+    margin-top: 80px !important;
+}
